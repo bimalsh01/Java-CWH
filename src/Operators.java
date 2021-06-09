@@ -1,5 +1,5 @@
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(StringLession[] args) {
 //        int a = 4;
 //        int b = a +6;
 //        System.out.println(b);

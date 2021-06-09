@@ -1,5 +1,5 @@
 public class ResultingDatatype {
-    public static void main(String[] args) {
+    public static void main(StringLession[] args) {
 
         int a = 654 + 6; //Result is itiger
         float b = 6.54f + a;

@@ -1,5 +1,5 @@
 public class PracticeSet2 {
-    public static void main(String[] args) {
+    public static void main(StringLession[] args) {
 
         //Encrypting
         char grade = 'B';

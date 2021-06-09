@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class PercentageCalc {
-    public static void main(String[] args){
+    public static void main(StringLession[] args){
         System.out.println("Percentage calculator - by Bimal");
         Scanner sc = new Scanner(System.in);
 

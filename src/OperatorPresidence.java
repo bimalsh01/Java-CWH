@@ -1,6 +1,6 @@
 public class OperatorPresidence {
 
-    public static void main(String[] args) {
+    public static void main(StringLession[] args) {
 //        int a = 6*5-34/2;
 //        System.out.println(a);
 //        // Higest precedence goes to * and /
