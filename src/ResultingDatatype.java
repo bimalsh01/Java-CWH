@@ -11,5 +11,12 @@ public class ResultingDatatype {
         int k = ++i; //First ++ means value increases first
         System.out.println(j); //55
         System.out.println(k); //56
+
+        //Simple solution
+        int y = 7;
+        int x = ++y+8;
+        System.out.println(x);
+
+        //Works for character too.
     }
 }
